@@ -1,0 +1,18 @@
+Project Name: AI Project Intelligence and Risk Advisor
+
+Project Objective:
+Develop an intelligent platform that analyzes project documents and provides insights.
+
+Current Progress:
+Document ingestion module is under development.
+
+Risks:
+Limited development time may delay project completion.
+
+Blockers:
+Some project requirements need clarification.
+
+Upcoming Tasks:
+Complete the RAG pipeline.
+Generate embeddings.
+Store project information in ChromaDB.
